@@ -1,2 +1,3 @@
 # okapi-feedback
-Feedback, ideas, propositions about Okapi platform and La Poste Open APIs (https://developer.laposte.fr/)
+
+[Let us know](https://github.com/DeveloperLaPoste/okapi-feedback/issues/new) if you have any question, idea or proposition about https://developer.laposte.fr and exposed APIs from La Poste.
